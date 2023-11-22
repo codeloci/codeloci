@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4b18bbd0.css",
-    "main.js": "/static/js/main.0f9b2028.js",
+    "main.js": "/static/js/main.7557bbf7.js",
     "static/media/codeloci_vid.mp4": "/static/media/codeloci_vid.7bc7e97f88c86b2cd037.mp4",
     "static/media/project_mgmnt.jpg": "/static/media/project_mgmnt.7f6b8ce401bdcb0a44f1.jpg",
     "static/media/pdt-mgnt.jpg": "/static/media/pdt-mgnt.bce4a526f95dfc12ac4a.jpg",
@@ -16,20 +16,20 @@
     "static/media/pjm_2.jpeg": "/static/media/pjm_2.f6c5916b74fbfdf9a353.jpeg",
     "static/media/wd_2.jpeg": "/static/media/wd_2.5a7fb0cbc25bfc145077.jpeg",
     "static/media/wd_1.jpeg": "/static/media/wd_1.f4ae10429e712cb695f3.jpeg",
-    "static/media/flutter_job.jpeg": "/static/media/flutter_job.c7753f094d01e73c0f17.jpeg",
     "static/media/pjm_1.jpeg": "/static/media/pjm_1.84ad437ab3f25da7a4d6.jpeg",
+    "static/media/flutter_job.jpeg": "/static/media/flutter_job.eb387a70f0730f6db51b.jpeg",
     "static/media/m_1.jpeg": "/static/media/m_1.17c3436147066402a4f4.jpeg",
     "static/media/md_2.jpeg": "/static/media/md_2.0bfec173e6935a75c3aa.jpeg",
-    "static/media/bd_job.jpeg": "/static/media/bd_job.0998381abee9b9ee5750.jpeg",
     "static/media/seo_2.jpeg": "/static/media/seo_2.fa639270eec4940e6b26.jpeg",
+    "static/media/bd_job.jpeg": "/static/media/bd_job.035c1d62d0eff7146adb.jpeg",
     "static/media/md_1.jpeg": "/static/media/md_1.7c71bddc82681f147385.jpeg",
     "static/media/pm_1.jpeg": "/static/media/pm_1.1f890bdc0ed5a6bbf3d6.jpeg",
     "static/media/m_2.jpeg": "/static/media/m_2.7c8ca6d49041e244a420.jpeg",
     "static/media/gd_1.jpeg": "/static/media/gd_1.f2b70a0ba21c905024e8.jpeg",
     "static/media/gd_2.jpeg": "/static/media/gd_2.507b2c2ccd87cd9db674.jpeg",
     "static/media/seo_1.jpeg": "/static/media/seo_1.a514287e44188df5aea1.jpeg",
-    "static/media/fs_job.jpeg": "/static/media/fs_job.ee6058d2c5bed75a0c83.jpeg",
     "static/media/main-wall1": "/static/media/main-wall1.9a2980c2541c6d46330f",
+    "static/media/fs_job.jpeg": "/static/media/fs_job.1a42a660cbf944a841d0.jpeg",
     "static/media/dev_ops_2.jpeg": "/static/media/dev_ops_2.788f1d424042081eddfc.jpeg",
     "static/media/main-wall3": "/static/media/main-wall3.ff06032cf9b786d75717",
     "static/media/main-wall10.jpeg": "/static/media/main-wall10.e7c38b3991af22839a90.jpeg",
@@ -45,10 +45,10 @@
     "static/media/logo.svg": "/static/media/logo.26dea3ea2b5552924552b5aab33d13e8.svg",
     "index.html": "/index.html",
     "main.4b18bbd0.css.map": "/static/css/main.4b18bbd0.css.map",
-    "main.0f9b2028.js.map": "/static/js/main.0f9b2028.js.map"
+    "main.7557bbf7.js.map": "/static/js/main.7557bbf7.js.map"
   },
   "entrypoints": [
     "static/css/main.4b18bbd0.css",
-    "static/js/main.0f9b2028.js"
+    "static/js/main.7557bbf7.js"
   ]
 }
