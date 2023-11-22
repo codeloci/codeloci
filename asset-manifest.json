@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4b18bbd0.css",
-    "main.js": "/static/js/main.7557bbf7.js",
+    "main.js": "/static/js/main.70a21c08.js",
     "static/media/codeloci_vid.mp4": "/static/media/codeloci_vid.7bc7e97f88c86b2cd037.mp4",
     "static/media/project_mgmnt.jpg": "/static/media/project_mgmnt.7f6b8ce401bdcb0a44f1.jpg",
     "static/media/pdt-mgnt.jpg": "/static/media/pdt-mgnt.bce4a526f95dfc12ac4a.jpg",
@@ -45,10 +45,10 @@
     "static/media/logo.svg": "/static/media/logo.26dea3ea2b5552924552b5aab33d13e8.svg",
     "index.html": "/index.html",
     "main.4b18bbd0.css.map": "/static/css/main.4b18bbd0.css.map",
-    "main.7557bbf7.js.map": "/static/js/main.7557bbf7.js.map"
+    "main.70a21c08.js.map": "/static/js/main.70a21c08.js.map"
   },
   "entrypoints": [
     "static/css/main.4b18bbd0.css",
-    "static/js/main.7557bbf7.js"
+    "static/js/main.70a21c08.js"
   ]
 }
