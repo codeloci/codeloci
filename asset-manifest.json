@@ -1,17 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.4b18bbd0.css",
-    "main.js": "/static/js/main.17ec8102.js",
+    "main.js": "/static/js/main.b0b53e8f.js",
     "static/media/codeloci_vid.mp4": "/static/media/codeloci_vid.7bc7e97f88c86b2cd037.mp4",
-    "static/media/project_mgmnt.jpg": "/static/media/project_mgmnt.7f6b8ce401bdcb0a44f1.jpg",
     "static/media/pdt-mgnt.jpg": "/static/media/pdt-mgnt.bce4a526f95dfc12ac4a.jpg",
     "static/media/mbl-dev.jpg": "/static/media/mbl-dev.585493f8bf72b761c7d5.jpg",
-    "static/media/marketing.jpg": "/static/media/marketing.7c434e136011f7e2e0fd.jpg",
-    "static/media/designer.jpg": "/static/media/designer.e45cb945d48f7e69967f.jpg",
     "static/media/web-dev.jpg": "/static/media/web-dev.1b336ad8668953c0a113.jpg",
     "static/media/empty_female_avatar.jpg": "/static/media/empty_female_avatar.b7b7e132dc2d15d13483.jpg",
     "static/media/empty_avatar.jpg": "/static/media/empty_avatar.8c6cc66d5821565caf21.jpg",
-    "static/media/seo.jpg": "/static/media/seo.8bfed7b0f2a03066ffbf.jpg",
     "static/media/pm_2.jpeg": "/static/media/pm_2.5e64ae673d82fdb1eb60.jpeg",
     "static/media/pjm_2.jpeg": "/static/media/pjm_2.f6c5916b74fbfdf9a353.jpeg",
     "static/media/wd_2.jpeg": "/static/media/wd_2.5a7fb0cbc25bfc145077.jpeg",
@@ -33,23 +29,30 @@
     "static/media/fs_job.jpeg": "/static/media/fs_job.1a42a660cbf944a841d0.jpeg",
     "static/media/dev_ops_2.jpeg": "/static/media/dev_ops_2.788f1d424042081eddfc.jpeg",
     "static/media/main-wall3": "/static/media/main-wall3.ff06032cf9b786d75717",
+    "static/media/pdt.svg": "/static/media/pdt.0be8724154dbc67005a00017f5be58c0.svg",
     "static/media/main-wall10.jpeg": "/static/media/main-wall10.e7c38b3991af22839a90.jpeg",
     "static/media/main-wall2": "/static/media/main-wall2.b6a5a5c2e0645cf48ef2",
     "static/media/logo-lite.png": "/static/media/logo-lite.1b7d2a26a5194d3a0603.png",
     "static/media/main-wall5": "/static/media/main-wall5.b11b7fffa3728b9d1780",
+    "static/media/pjt.svg": "/static/media/pjt.00af3b59be47a15e91dd3a94779a3caf.svg",
     "static/media/main_wallpaper.jpeg": "/static/media/main_wallpaper.b60d1ac6d8c024da5cbe.jpeg",
+    "static/media/md.svg": "/static/media/md.11d34bad800aa38701506a363e97544f.svg",
     "static/media/main-wall11.jpeg": "/static/media/main-wall11.ce50dd26628760cb87c4.jpeg",
+    "static/media/gd.svg": "/static/media/gd.ddc311e6c2ae08add8c8e422dc2e72bb.svg",
     "static/media/main-wall12": "/static/media/main-wall12.6c4123fdbaa54336bd4f",
     "static/media/main-wall4": "/static/media/main-wall4.9290fa0d4f21cc362ea8",
+    "static/media/seo.svg": "/static/media/seo.b427b3066dfc23ff182f4debf3033131.svg",
+    "static/media/wd.svg": "/static/media/wd.bd724d9745ed14b340e7f62fb8645eef.svg",
     "static/media/zunaira_avatar.jpeg": "/static/media/zunaira_avatar.b5654253eb40d01c721b.jpeg",
+    "static/media/mkt.svg": "/static/media/mkt.a6a5acc5e790680c1cd79181031713ef.svg",
     "static/media/jawad_avatar.jpeg": "/static/media/jawad_avatar.53ed600ef205af3f3157.jpeg",
     "static/media/logo.svg": "/static/media/logo.927a56ef3f4a99fd28537c00574ee95b.svg",
     "index.html": "/index.html",
     "main.4b18bbd0.css.map": "/static/css/main.4b18bbd0.css.map",
-    "main.17ec8102.js.map": "/static/js/main.17ec8102.js.map"
+    "main.b0b53e8f.js.map": "/static/js/main.b0b53e8f.js.map"
   },
   "entrypoints": [
     "static/css/main.4b18bbd0.css",
-    "static/js/main.17ec8102.js"
+    "static/js/main.b0b53e8f.js"
   ]
 }
