@@ -1,0 +1,13 @@
+{
+  "primary": "#2B5CD9",
+  "onPrimary": "#FFFFFF",
+  "primaryOnDark": "#5B86F7",
+  "accent": "#0E8F8F",
+  "typeface": {
+    "display": "Inter",
+    "body": "Inter"
+  },
+  "bannerAlt": "Concentric service arcs crossed by a vertical milestone rule on a blue field.",
+  "generatedAt": "2026-08-05T03:10:59.139Z",
+  "source": "original"
+}

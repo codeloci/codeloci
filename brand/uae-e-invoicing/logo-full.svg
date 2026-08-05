@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="Codeloci">
+  <title>Codeloci</title>
+  <g transform="translate(18 18) scale(0.32)">
+
+      <g fill="none" stroke="#0D6F62" stroke-width="26" stroke-linecap="square">
+        <path d="M154 128 H100 V416 H154" />
+        <path d="M358 128 H412 V416 H358" />
+        <path d="M176 244 H336" />
+        <path d="M256 244 V392" />
+      </g>
+      <circle cx="406" cy="88" r="24" fill="#245B86" />
+  </g>
+  <text x="212" y="122" font-family="Instrument Sans, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="76" font-weight="700"
+        letter-spacing="-1.5" fill="#0D6F62">Codeloci</text>
+</svg>

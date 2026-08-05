@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="Voice Control">
+  <title>Voice Control</title>
+  <g transform="translate(18 18) scale(0.32)">
+
+      <defs>
+        <clipPath id="bounds">
+          <rect x="108" y="108" width="296" height="296" rx="26" />
+        </clipPath>
+      </defs>
+      <g clip-path="url(#bounds)">
+        <rect x="138" y="208" width="26" height="96" rx="13" fill="#22D3EE" />
+        <rect x="184" y="158" width="26" height="196" rx="13" fill="#22D3EE" />
+        <rect x="230" y="106" width="26" height="300" rx="13" fill="#22D3EE" />
+        <rect x="276" y="136" width="26" height="240" rx="13" fill="#22D3EE" />
+        <rect x="322" y="190" width="26" height="132" rx="13" fill="#22D3EE" />
+        <rect x="368" y="162" width="26" height="188" rx="13" fill="#22D3EE" />
+      </g>
+      <rect x="108" y="108" width="296" height="296" rx="26" fill="none" stroke="#64748B" stroke-width="26" />
+  </g>
+  <text x="212" y="122" font-family="IBM Plex Sans, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="76" font-weight="700"
+        letter-spacing="-1.5" fill="#64748B">Voice Control</text>
+</svg>

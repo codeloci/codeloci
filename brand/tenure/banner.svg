@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Concentric service arcs crossed by a vertical milestone rule on a blue field.">
+  <title>Concentric service arcs crossed by a vertical milestone rule on a blue field.</title>
+
+      <defs>
+        <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
+          <stop offset="0%" stop-color="#2B5CD9" />
+          <stop offset="100%" stop-color="#5B86F7" />
+        </linearGradient>
+      </defs>
+      <rect width="1600" height="900" fill="url(#bg)" />
+      <rect width="1600" height="900" fill="#000000" opacity="0.14" />
+      <!-- eighteen months of service, arc by arc -->
+      <g fill="none" stroke="#FFFFFF" stroke-linecap="round">
+        <path d="M660 700 A 140 140 0 0 1 940 700" stroke-width="10" opacity="0.5" />
+        <path d="M584 700 A 216 216 0 0 1 1016 700" stroke-width="10" opacity="0.455" />
+        <path d="M508 700 A 292 292 0 0 1 1092 700" stroke-width="10" opacity="0.41000000000000003" />
+        <path d="M432 700 A 368 368 0 0 1 1168 700" stroke-width="10" opacity="0.365" />
+        <path d="M356 700 A 444 444 0 0 1 1244 700" stroke-width="10" opacity="0.32" />
+        <path d="M280 700 A 520 520 0 0 1 1320 700" stroke-width="10" opacity="0.275" />
+        <path d="M204 700 A 596 596 0 0 1 1396 700" stroke-width="10" opacity="0.22999999999999998" />
+        <path d="M128 700 A 672 672 0 0 1 1472 700" stroke-width="10" opacity="0.185" />
+      </g>
+      <path d="M800 120 V780" stroke="#0E8F8F" stroke-width="14" stroke-linecap="round" />
+      <g fill="#0E8F8F">
+        <circle cx="800" cy="220" r="18" />
+        <circle cx="800" cy="380" r="18" />
+        <circle cx="800" cy="540" r="18" />
+        <circle cx="800" cy="700" r="18" />
+      </g>
+      <g fill="#FFFFFF" opacity="0.9">
+        <rect x="1180" y="300" width="240" height="16" rx="8" opacity="0.9" />
+        <rect x="1180" y="388" width="192" height="16" rx="8" opacity="0.68" />
+        <rect x="1180" y="476" width="144" height="16" rx="8" opacity="0.46" />
+      </g>
+</svg>

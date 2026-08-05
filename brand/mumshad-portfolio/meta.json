@@ -1,0 +1,12 @@
+{
+  "primary": "#C026D3",
+  "onPrimary": "#FFFFFF",
+  "accent": "#EC4899",
+  "typeface": {
+    "display": "Plus Jakarta Sans",
+    "body": "Inter"
+  },
+  "bannerAlt": "A terminal caret resting on a typographic baseline over a fuchsia field.",
+  "generatedAt": "2026-08-05T03:11:01.674Z",
+  "source": "original"
+}

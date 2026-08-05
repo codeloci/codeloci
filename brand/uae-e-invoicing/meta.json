@@ -1,0 +1,13 @@
+{
+  "primary": "#0D6F62",
+  "onPrimary": "#FFFFFF",
+  "primaryOnDark": "#35B7A3",
+  "accent": "#245B86",
+  "typeface": {
+    "display": "Instrument Sans",
+    "body": "Inter"
+  },
+  "bannerAlt": "Abstract invoice grid with one tax column highlighted and a transmission node beside it.",
+  "generatedAt": "2026-08-05T03:10:58.703Z",
+  "source": "original"
+}

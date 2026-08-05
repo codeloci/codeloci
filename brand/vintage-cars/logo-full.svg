@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="Vintage Cars">
+  <title>Vintage Cars</title>
+  <g transform="translate(18 18) scale(0.32)">
+
+      <rect x="64" y="246" width="384" height="30" rx="15" fill="#E0BC7A" />
+      <path d="M256 96 C 308 178 376 198 376 264 A 120 120 0 1 1 136 264 C 136 198 204 178 256 96 Z
+               M256 218 A 46 46 0 1 0 256 310 A 46 46 0 1 0 256 218 Z"
+            fill="#8B5A2B" fill-rule="evenodd" />
+  </g>
+  <text x="212" y="122" font-family="Georgia, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="76" font-weight="700"
+        letter-spacing="-1.5" fill="#8B5A2B">Vintage Cars</text>
+</svg>

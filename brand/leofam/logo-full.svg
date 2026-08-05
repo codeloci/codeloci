@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="LeoFam">
+  <title>LeoFam</title>
+  <g transform="translate(18 18) scale(0.32)">
+
+      <path d="M198 208 A 58 58 0 0 1 314 208" fill="none" stroke="#E11D48" stroke-width="26"
+            stroke-linecap="round" />
+      <path d="M112 226 H400 L368 414 A 34 34 0 0 1 334 444 H178 A 34 34 0 0 1 144 414 Z"
+            fill="#E11D48" />
+      <path d="M232 292 L292 336 L232 380" fill="none" stroke="#FB923C" stroke-width="26"
+            stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <text x="212" y="122" font-family="Manrope, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="76" font-weight="700"
+        letter-spacing="-1.5" fill="#E11D48">LeoFam</text>
+</svg>

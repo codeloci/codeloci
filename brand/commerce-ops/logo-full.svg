@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="Commerce Ops">
+  <title>Commerce Ops</title>
+  <g transform="translate(18 18) scale(0.32)">
+<g>
+        <path d="M404.0 256.0 A 148 148 0 0 0 261.2 108.1"
+              fill="none" stroke="#15803D" stroke-width="28" stroke-linecap="butt" />
+        <path d="M227.2 106.9 L262.0 83.1 L260.3 133.1 Z"
+              fill="#15803D" />
+        <path d="M182.0 127.8 A 148 148 0 0 0 125.3 325.5"
+              fill="none" stroke="#15803D" stroke-width="28" stroke-linecap="butt" />
+        <path d="M141.3 355.5 L103.3 337.2 L147.4 313.7 Z"
+              fill="#15803D" />
+        <path d="M182.0 384.2 A 148 148 0 0 0 381.5 334.4"
+              fill="none" stroke="#65A30D" stroke-width="28" stroke-linecap="butt" />
+        <path d="M399.5 305.6 L402.7 347.7 L360.3 321.2 Z"
+              fill="#65A30D" />
+      </g>
+  </g>
+  <text x="212" y="122" font-family="system-ui, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="76" font-weight="700"
+        letter-spacing="-1.5" fill="#15803D">Commerce Ops</text>
+</svg>

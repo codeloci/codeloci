@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Tenure mark">
+  <title>Tenure</title>
+  <desc>Concentric arcs for service accruing year on year, cut by a single vertical rule: the vesting cliff every entitlement resolves against.</desc>
+
+      <g fill="none" stroke="#2B5CD9" stroke-width="28" stroke-linecap="round">
+        <path d="M76 336 A 180 180 0 0 1 436 336" />
+        <path d="M136 336 A 120 120 0 0 1 376 336" />
+        <path d="M196 336 A 60 60 0 0 1 316 336" />
+      </g>
+      <path d="M256 60 V452" stroke="#0E8F8F" stroke-width="24" stroke-linecap="round" />
+</svg>

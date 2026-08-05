@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Codeloci mark">
+  <title>Codeloci</title>
+  <desc>A T-account — one horizontal rule, one vertical divider separating debit from credit — enclosed by a matched pair of brackets, with a detached node above for Peppol transmission.</desc>
+
+      <g fill="none" stroke="#FFFFFF" stroke-width="26" stroke-linecap="square">
+        <path d="M154 128 H100 V416 H154" />
+        <path d="M358 128 H412 V416 H358" />
+        <path d="M176 244 H336" />
+        <path d="M256 244 V392" />
+      </g>
+      <circle cx="406" cy="88" r="24" fill="#245B86" />
+</svg>

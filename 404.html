@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#080B16" />
+
+    <title>CodeLoci — Software house for web, mobile and cloud</title>
+    <meta
+      name="description"
+      content="CodeLoci designs, builds and maintains product-grade web, mobile and cloud software — from multi-tenant enterprise platforms to storefronts and mobile apps."
+    />
+
+    <link rel="icon" href="/favicon.jpeg" />
+    <link rel="apple-touch-icon" href="/logo-lite.png" />
+    <link rel="manifest" href="/manifest.json" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="CodeLoci" />
+    <meta property="og:title" content="CodeLoci — Software house for web, mobile and cloud" />
+    <meta
+      property="og:description"
+      content="CodeLoci designs, builds and maintains product-grade web, mobile and cloud software."
+    />
+    <meta property="og:image" content="/logo-lite.png" />
+    <meta name="twitter:card" content="summary" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <script>
+      // Paint the correct background before React mounts so switching routes or
+      // reloading in dark mode never flashes a white page.
+      (function () {
+        try {
+          var stored = localStorage.getItem('codeloci-color-mode');
+          var dark =
+            stored === 'dark' ||
+            (!stored && !window.matchMedia('(prefers-color-scheme: light)').matches);
+          document.documentElement.setAttribute('data-color-mode', dark ? 'dark' : 'light');
+          document.documentElement.style.backgroundColor = dark ? '#080B16' : '#F6F7FB';
+        } catch (e) {
+          /* storage unavailable — the app applies the theme on mount instead */
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/index-DzBvb0tq.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/react-Dxfz_C-A.js">
+    <link rel="modulepreload" crossorigin href="/assets/mui-C9sUrIH-.js">
+  </head>
+  <body style="margin: 0">
+    <noscript>
+      CodeLoci needs JavaScript to run. Reach us directly at mumshadjawad786@gmail.com or
+      +92 323 7560427.
+    </noscript>
+    <div id="root"></div>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "primary": "#64748B",
+  "onPrimary": "#FFFFFF",
+  "accent": "#22D3EE",
+  "typeface": {
+    "display": "IBM Plex Sans",
+    "body": "IBM Plex Mono"
+  },
+  "bannerAlt": "A waveform clipped inside a closed square, signalling audio that stays put.",
+  "generatedAt": "2026-08-05T03:11:01.312Z",
+  "source": "original"
+}

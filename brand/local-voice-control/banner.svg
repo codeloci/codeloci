@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="A waveform clipped inside a closed square, signalling audio that stays put.">
+  <title>A waveform clipped inside a closed square, signalling audio that stays put.</title>
+
+      <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#334155" />
+          <stop offset="100%" stop-color="#64748B" />
+        </linearGradient>
+        <clipPath id="bandclip">
+          <rect x="420" y="240" width="760" height="420" rx="28" />
+        </clipPath>
+      </defs>
+      <rect width="1600" height="900" fill="url(#bg)" />
+      
+    <defs>
+      <pattern id="ticks" width="40" height="40" patternUnits="userSpaceOnUse">
+        <path d="M0 0 V40" stroke="#FFFFFF" stroke-width="2" />
+      </pattern>
+    </defs>
+    <rect width="1600" height="900" fill="url(#ticks)" opacity="0.18" />
+      <!-- the pipeline: four stages, then a bounded waveform -->
+      <g clip-path="url(#bandclip)">
+        <rect x="420" y="240" width="760" height="420" fill="#FFFFFF" opacity="0.06" />
+        <rect x="446" y="420" width="14" height="60" rx="7" fill="#22D3EE" opacity="0.4" />
+        <rect x="476" y="380" width="14" height="140" rx="7" fill="#22D3EE" opacity="0.52" />
+        <rect x="506" y="320" width="14" height="260" rx="7" fill="#22D3EE" opacity="0.64" />
+        <rect x="536" y="260" width="14" height="380" rx="7" fill="#22D3EE" opacity="0.76" />
+        <rect x="566" y="300" width="14" height="300" rx="7" fill="#22D3EE" opacity="0.88" />
+        <rect x="596" y="360" width="14" height="180" rx="7" fill="#22D3EE" opacity="0.4" />
+        <rect x="626" y="405" width="14" height="90" rx="7" fill="#22D3EE" opacity="0.52" />
+        <rect x="656" y="375" width="14" height="150" rx="7" fill="#22D3EE" opacity="0.64" />
+        <rect x="686" y="330" width="14" height="240" rx="7" fill="#22D3EE" opacity="0.76" />
+        <rect x="716" y="285" width="14" height="330" rx="7" fill="#22D3EE" opacity="0.88" />
+        <rect x="746" y="350" width="14" height="200" rx="7" fill="#22D3EE" opacity="0.4" />
+        <rect x="776" y="390" width="14" height="120" rx="7" fill="#22D3EE" opacity="0.52" />
+        <rect x="806" y="420" width="14" height="60" rx="7" fill="#22D3EE" opacity="0.64" />
+        <rect x="836" y="380" width="14" height="140" rx="7" fill="#22D3EE" opacity="0.76" />
+        <rect x="866" y="320" width="14" height="260" rx="7" fill="#22D3EE" opacity="0.88" />
+        <rect x="896" y="260" width="14" height="380" rx="7" fill="#22D3EE" opacity="0.4" />
+        <rect x="926" y="300" width="14" height="300" rx="7" fill="#22D3EE" opacity="0.52" />
+        <rect x="956" y="360" width="14" height="180" rx="7" fill="#22D3EE" opacity="0.64" />
+        <rect x="986" y="405" width="14" height="90" rx="7" fill="#22D3EE" opacity="0.76" />
+        <rect x="1016" y="375" width="14" height="150" rx="7" fill="#22D3EE" opacity="0.88" />
+        <rect x="1046" y="330" width="14" height="240" rx="7" fill="#22D3EE" opacity="0.4" />
+        <rect x="1076" y="285" width="14" height="330" rx="7" fill="#22D3EE" opacity="0.52" />
+        <rect x="1106" y="350" width="14" height="200" rx="7" fill="#22D3EE" opacity="0.64" />
+        <rect x="1136" y="390" width="14" height="120" rx="7" fill="#22D3EE" opacity="0.76" />
+      </g>
+      <rect x="420" y="240" width="760" height="420" rx="28" fill="none" stroke="#FFFFFF" stroke-width="8" opacity="0.85" />
+      <g fill="#FFFFFF" opacity="0.7">
+        <rect x="420" y="720" width="150" height="12" rx="6" opacity="1" />
+        <rect x="616" y="720" width="150" height="12" rx="6" opacity="0.8200000000000001" />
+        <rect x="812" y="720" width="150" height="12" rx="6" opacity="0.64" />
+        <rect x="1008" y="720" width="150" height="12" rx="6" opacity="0.45999999999999996" />
+      </g>
+</svg>

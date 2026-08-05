@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="Tenure">
+  <title>Tenure</title>
+  <g transform="translate(18 18) scale(0.32)">
+
+      <g fill="none" stroke="#2B5CD9" stroke-width="28" stroke-linecap="round">
+        <path d="M76 336 A 180 180 0 0 1 436 336" />
+        <path d="M136 336 A 120 120 0 0 1 376 336" />
+        <path d="M196 336 A 60 60 0 0 1 316 336" />
+      </g>
+      <path d="M256 60 V452" stroke="#0E8F8F" stroke-width="24" stroke-linecap="round" />
+  </g>
+  <text x="212" y="122" font-family="Inter, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="76" font-weight="700"
+        letter-spacing="-1.5" fill="#2B5CD9">Tenure</text>
+</svg>

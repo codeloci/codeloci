@@ -1,0 +1,13 @@
+{
+  "primary": "#8B5A2B",
+  "onPrimary": "#FFFFFF",
+  "primaryOnDark": "#C8963E",
+  "accent": "#E0BC7A",
+  "typeface": {
+    "display": "Georgia",
+    "body": "Inter"
+  },
+  "bannerAlt": "Camshaft mark in brass on ink, crossed by a five-event provenance timeline.",
+  "generatedAt": "2026-08-05T06:46:43.038Z",
+  "source": "original"
+}

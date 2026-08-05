@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="A terminal caret resting on a typographic baseline over a fuchsia field.">
+  <title>A terminal caret resting on a typographic baseline over a fuchsia field.</title>
+
+      <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#C026D3" />
+          <stop offset="100%" stop-color="#EC4899" />
+        </linearGradient>
+      </defs>
+      <rect width="1600" height="900" fill="url(#bg)" />
+      <rect width="1600" height="900" fill="#000000" opacity="0.14" />
+      <!-- one continuous column of text, which is the whole information architecture -->
+      <g fill="#FFFFFF">
+        <rect x="440" y="210" width="520" height="16" rx="8" opacity="0.9" />
+        <rect x="440" y="276" width="640" height="16" rx="8" opacity="0.8200000000000001" />
+        <rect x="440" y="342" width="440" height="16" rx="8" opacity="0.74" />
+        <rect x="440" y="408" width="700" height="16" rx="8" opacity="0.66" />
+        <rect x="440" y="474" width="580" height="16" rx="8" opacity="0.5800000000000001" />
+        <rect x="440" y="540" width="380" height="16" rx="8" opacity="0.5" />
+        <rect x="440" y="606" width="660" height="16" rx="8" opacity="0.42000000000000004" />
+        <rect x="440" y="672" width="500" height="16" rx="8" opacity="0.33999999999999997" />
+      </g>
+      <path d="M300 300 L372 372 L300 444" fill="none" stroke="#FFFFFF" stroke-width="22"
+            stroke-linecap="round" stroke-linejoin="round" opacity="0.95" />
+      <rect x="1216" y="744" width="60" height="18" rx="9" fill="#FFFFFF" />
+</svg>

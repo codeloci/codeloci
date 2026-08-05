@@ -1,0 +1,12 @@
+# https://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Allow: /
+
+# Demos are static mocks with fictional data (R-13.3.2). They must never be indexed:
+# a mock invoice screen outranking a real client's product page would be worse than
+# useless. Every demo's index.html also carries <meta name="robots" content="noindex,
+# nofollow"> plus a canonical link to its case study, so this is belt and braces.
+Disallow: /demos/
+
+Sitemap: https://codeloci.com/sitemap.xml

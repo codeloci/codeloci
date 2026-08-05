@@ -1,0 +1,50 @@
+{
+  "sourceHash": "e42f74268d8eacf9edf1809451ca9a253723e7a005bd6c579ec4265190ef09be",
+  "generatedAt": "2026-08-05T03:11:01.674Z",
+  "files": {
+    "logo-mark.svg": {
+      "bytes": 624,
+      "sha256": "86ec70abb3cd9b70d2b625ada70fbb4c72a181946a14df37f57d25799ad98077"
+    },
+    "logo-full.svg": {
+      "bytes": 726,
+      "sha256": "d3ea6c1632f6c933554924ed7436b4ed2b2cec8b1be28cc788d119b213dfa09a"
+    },
+    "logo-mark-on-dark.svg": {
+      "bytes": 624,
+      "sha256": "ddc1e3816ad63bb2eea459eb3e5f3e5b043ced05d5fe34e5dd157d5a17b8d24f"
+    },
+    "banner.svg": {
+      "bytes": 1691,
+      "sha256": "ca1ac8bcc9867b2fd510cd5b8e48821eeeb81fb025e10c4f4f4a92b7ca0367b2"
+    },
+    "icon-512.png": {
+      "bytes": 3345,
+      "sha256": "b0477ab36401a8b617f47e7dbd05451e97e1537d80221b6cc9f3c222b67bcaa7"
+    },
+    "icon-192.png": {
+      "bytes": 961,
+      "sha256": "072fccb9859a9fdcf866c21dbb6fb0b89364c80c276e6f8f8bf838b4f63c781f"
+    },
+    "apple-touch-icon-180.png": {
+      "bytes": 1110,
+      "sha256": "804298392adb7688adeab914c8d06b97266a36f1956f3df6c4e69ff50d5195da"
+    },
+    "favicon.ico": {
+      "bytes": 1089,
+      "sha256": "6cfe700b78dc6058b0dd7a55ab20bf3b3771e4755c61ad689fa64e385114567b"
+    },
+    "banner-1600x900.webp": {
+      "bytes": 10822,
+      "sha256": "dbd1927b65da6f7b9399b568b3caad254a5ba5c0029b2d16cc2393e47b281d53"
+    },
+    "banner-1200x675.webp": {
+      "bytes": 7350,
+      "sha256": "375cad9dd9febf8a99427b32d51c7990f0f6dc37cd117f6d955c6b535b32c108"
+    },
+    "og-1200x630.png": {
+      "bytes": 12191,
+      "sha256": "49814db06fba5afc7607a32c34e7becac3c8f653cbe94b0673abf18841d10301"
+    }
+  }
+}

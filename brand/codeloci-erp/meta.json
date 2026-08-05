@@ -1,0 +1,13 @@
+{
+  "primary": "#3D5AFE",
+  "onPrimary": "#FFFFFF",
+  "primaryOnDark": "#BAC3FF",
+  "accent": "#8C9EFF",
+  "typeface": {
+    "display": "Manrope",
+    "body": "Inter"
+  },
+  "bannerAlt": "Twelve module cells on indigo, the four the client surfaces lifted clear of the plane.",
+  "generatedAt": "2026-08-05T03:10:59.543Z",
+  "source": "original"
+}

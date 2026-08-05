@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="Mumshad">
+  <title>Mumshad</title>
+  <g transform="translate(18 18) scale(0.32)">
+
+      <path d="M164 164 L252 252 L164 340" fill="none" stroke="#C026D3" stroke-width="34"
+            stroke-linecap="round" stroke-linejoin="round" />
+      <rect x="292" y="212" width="76" height="80" rx="10" fill="#C026D3" />
+      <path d="M132 424 H392" stroke="#EC4899" stroke-width="28" stroke-linecap="round" />
+  </g>
+  <text x="212" y="122" font-family="Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="76" font-weight="700"
+        letter-spacing="-1.5" fill="#C026D3">Mumshad</text>
+</svg>

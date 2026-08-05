@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Mumshad mark">
+  <title>Mumshad</title>
+  <desc>A terminal caret and a block cursor sitting on a typographic baseline — code and the written page, which is all this project is.</desc>
+
+      <path d="M164 164 L252 252 L164 340" fill="none" stroke="#C026D3" stroke-width="34"
+            stroke-linecap="round" stroke-linejoin="round" />
+      <rect x="292" y="212" width="76" height="80" rx="10" fill="#C026D3" />
+      <path d="M132 424 H392" stroke="#EC4899" stroke-width="28" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,12 @@
+{
+  "primary": "#15803D",
+  "onPrimary": "#FFFFFF",
+  "accent": "#65A30D",
+  "typeface": {
+    "display": "system-ui",
+    "body": "system-ui"
+  },
+  "bannerAlt": "Three arrows closing into a loop over a green field, one arrow returning.",
+  "generatedAt": "2026-08-05T03:11:00.860Z",
+  "source": "original"
+}

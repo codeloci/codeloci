@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="LeoFam mark">
+  <title>LeoFam</title>
+  <desc>A retail basket with its handle, struck through by a forward chevron: the basket, and the step forward that checkout is.</desc>
+
+      <path d="M198 208 A 58 58 0 0 1 314 208" fill="none" stroke="#FFFFFF" stroke-width="26"
+            stroke-linecap="round" />
+      <path d="M112 226 H400 L368 414 A 34 34 0 0 1 334 444 H178 A 34 34 0 0 1 144 414 Z"
+            fill="#FFFFFF" />
+      <path d="M232 292 L292 336 L232 380" fill="none" stroke="#FB923C" stroke-width="26"
+            stroke-linecap="round" stroke-linejoin="round" />
+</svg>
